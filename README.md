@@ -1,4 +1,4 @@
-![fairytaleslogo](https://github.com/alexandengstrom/fairytales/assets/123507241/ada9afab-2cbb-4b5b-89a0-887bd5a9063b)
+![fairytaleslogoAI](https://github.com/alexandengstrom/fairytales/assets/123507241/c6065965-bf4d-4d90-8874-2cb1a623724b)
 
 
 Welcome to **F(ai)rytales**. This is an app for making bedtime stories with AI, made for children and their parents. The idea is to let users make their own characters and stories. The app lets you create characters and then make stories with them. You can pick where the story happens, either by writing a place or choosing on Google Maps. You also give ideas for the story plot.
