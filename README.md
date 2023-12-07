@@ -6,19 +6,21 @@ Welcome to **F(ai)rytales**. This is an app for making bedtime stories with AI, 
 ### Customization and Interaction
 The app offers an interactive and user-friendly interface where you can:
 
-* **Create Unique Characters**:  In F(ai)rytales, you have the freedom to create a variety of characters for your stories. You can choose a character's name, which can be anything you like. Also, you can decide their age, making them young or old, to fit your story. There's an option to select an occupation for each character, which could be anything from a brave knight to a clever scientist. Plus, you can write a background story for each character, giving them a past that makes your stories more interesting and rich in detail.
-* **Choose Your Setting**: F(ai)rytales gives you the flexibility to set your story anywhere you imagine. You have the option to type in a custom location, which could be a real-world place or a fantasy setting from your imagination. Whether it's a bustling city, a remote village, or an enchanted forest, the choice is yours. For those who prefer a more visual approach, the app integrates with Google Maps. This feature allows you to browse the map and select a location, adding an element of realism and geographical accuracy to your story. This blend of real and imaginary settings provides a vast canvas for your storytelling, making each tale unique and tailored to your creative vision.
-* **Shape Your Story**: F(ai)rytales offers you the creative freedom to outline the plot of your story as you see fit. Whether you have a specific theme in mind or a detailed plot outline, the app is designed to accommodate your ideas. You can provide a brief suggestion for a storyline or delve into more detailed descriptions, setting the stage for the characters and the adventures they will embark on. The AI in the app then takes your input, whether simple or complex, and weaves it into a coherent and engaging narrative. This feature allows for a wide range of storytelling possibilities, from straightforward tales for younger children to more intricate plots for older users, making each story a unique creation of your own imagination.
+* **Create Unique Characters**: You have the freedom to create a variety of characters for your stories. This can be real characters as yourself and your friend but i can also be made up character or historical persons.
+* **Choose Your Setting**: Decide where the story should take place by writing a location, either a real one like your home town or a made up one.
+* **Shape Your Story**: When creating a story you can also include some information about what you want the story to be about.
 
 ### Colors and Language Support
-The app now supports dark mode, which changes the color theme to be easier on the eyes during evenings and nights. This feature automatically adjusts based on your phone's settings. If your phone is set to dark mode, the app will also switch to dark mode.
+The app has two color themes. A normal theme and dark mode. Dark mode activates automatically based on the devices settings.
 
-Additionally, the app supports both English and Swedish. This means that the app's language, as well as the language of the stories generated, will automatically match the language set on your phone. So, if your phone is set to English, the app and stories will be in English; if it's set to Swedish, everything will be in Swedish. Eventually more languages will be added later.
+The app supports English, German, French, Spanish and Swedish languages. This means both all text inside the app will show in the prefered language but also the stories will be genereted in the chosen language. The language will be choosen automatically based on the devices settings. English will be used per default if the language is not supported.
 
 ### Technical Implementation
-**F(ai)rytales** is built using Java in Android Studio, applying the MVVM (Model-View-ViewModel) design pattern. Java provided a stable foundation, while Android Studio offered the necessary tools for efficient app development. The use of MVVM helped in organizing the code, making it easier to manage and update, ensuring a seamless user experience.
+**F(ai)rytales** is built using Java in Android Studio, applying the MVVM (Model-View-ViewModel) design pattern. The idea is to build the application in three layers. View, ViewModels and Models.
 
 ### Future Enhancements
 One of the key enhancements planned for **F(ai)rytales** is to evolve the storytelling process into a more dynamic and interactive experience. The concept is to build the story in sections, rather than crafting the entire narrative in one go. At the end of each section, users will have the opportunity to choose from various paths, leading to different story developments. This approach is inspired by advanced "choose your own adventure" games, adding a layer of interactivity and engagement to the storytelling process.
 
-This feature was part of the original vision for the app. However, due to time constraints associated with the project's academic deadlines at Linköping University, it was not feasible to include this functionality in the initial release.
+Another feature I would like to add is to generete an image to every story aswell. This could be solved by using the Dall-E API and should not be that hard to implement.
+
+However, this project was part of the course TDP028 at Linköping University and due to the academic deadline i did not have time to implement this functionality.
