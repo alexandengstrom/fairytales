@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login!</string>
+    <string name="register_button">Register new account!</string>
+    <string name="create_account_link">Dont have an account? Create new account!</string>
+    <string name="already_account_link">Already have an account? Log in!</string>
+    <string name="characters_title">Characters</string>
+    <string name="create_new_character">Create new character</string>
+    <string name="create_new_character_button">Create new character!</string>
+    <string name="characters_list_title">Your characters:</string>
+    <string name="remove">Remove</string>
+    <string name="stories_title">Stories</string>
+    <string name="generate_story_title">Create new story</string>
+    <string name="choose_characters_title">Choose which characters to include:</string>
+    <string name="create_new_story_button">Generate story!</string>
+
+    <string name="home_greeing">Welcome back!</string>
+    <string name="home_explanation">Let\'s read some fairytales!</string>
+    <string name="search_placeholder">Search stories...</string>
+
+    <string name="story_location_placeholder">Where should the story take place?</string>
+    <string name="story_plot_placeholder">Where should the story be about?</string>
+    <string name="add_character_button_text">Add</string>
+
+    <string name="character_name_placeholder">Name...</string>
+    <string name="character_age_placeholder">Age...</string>
+    <string name="character_occupation_placeholder">Occupation...</string>
+    <string name="character_backstory_placeholder">What is the backstory of this character?</string>
+</resources>

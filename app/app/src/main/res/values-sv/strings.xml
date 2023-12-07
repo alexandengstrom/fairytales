@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fairytales</string>
+    <string name="email_hint">Epost</string>
+    <string name="password_hint">Lösenord</string>
+    <string name="login_button">Logga in!</string>
+    <string name="register_button">Registrera konto!</string>
+    <string name="create_account_link">Har du inget konto? Skapa ett nytt!</string>
+    <string name="already_account_link">Har du redan ett konto? Logga in!</string>
+    <string name="characters_title">Karaktärer</string>
+    <string name="create_new_character">Skapa en ny karaktär</string>
+    <string name="create_new_character_button">Skapa karaktär!</string>
+    <string name="characters_list_title">Dina karaktärer</string>
+    <string name="remove">Ta bort</string>
+    <string name="stories_title">Sagor</string>
+    <string name="generate_story_title">Skapa ny saga</string>
+    <string name="choose_characters_title">Välj karaktärer som ska inkluderas</string>
+    <string name="create_new_story_button">Skapa ny saga</string>
+    <string name="home_greeing">Välkommen tillbaka!</string>
+    <string name="home_explanation">Låt oss läsa lite sagor!</string>
+    <string name="search_placeholder">Sök sagor...</string>
+    <string name="story_location_placeholder">Vart ska sagan utspela sig?</string>
+    <string name="story_plot_placeholder">Vad ska sagan handla om?</string>
+    <string name="add_character_button_text">Lägg till</string>
+    <string name="character_name_placeholder">Namn...</string>
+    <string name="character_age_placeholder">Ålder...</string>
+    <string name="character_occupation_placeholder">Vad jobbar karaktärer med?</string>
+    <string name="character_backstory_placeholder">Berätta lite mer om denna karaktär</string>
+</resources>

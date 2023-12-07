@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background3light"
+    tools:context=".Views.Fragments.Characters">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="20dp"
+            android:id="@+id/mainLinearLayout">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/charactersFormLinearLayout">
+
+                <EditText
+                    android:id="@+id/new_character_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:padding="16dp"
+                    android:background="@drawable/rounded_textbox"
+                    android:layout_marginBottom="10dp"
+                    android:hint="@string/character_name_placeholder"
+                    android:inputType="text" />
+
+                <EditText
+                    android:id="@+id/new_character_age"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="@string/character_age_placeholder"
+                    android:padding="16dp"
+                    android:background="@drawable/rounded_textbox"
+                    android:layout_marginBottom="10dp"
+                    android:inputType="numberSigned" />
+
+                <EditText
+                    android:id="@+id/new_character_occupation"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="@string/character_occupation_placeholder"
+                    android:padding="16dp"
+                    android:background="@drawable/rounded_textbox"
+                    android:layout_marginBottom="10dp"
+                    android:inputType="text" />
+
+                <EditText
+                    android:id="@+id/new_character_about"
+                    android:layout_width="match_parent"
+                    android:layout_height="98dp"
+                    android:ems="10"
+                    android:padding="16dp"
+                    android:background="@drawable/rounded_textbox"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="start|top"
+                    android:hint="@string/character_backstory_placeholder"
+                    android:inputType="textMultiLine" />
+
+                <Button
+                    android:id="@+id/create_character_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:backgroundTint="@color/dark_blue"
+                    android:textColor="@color/button_text"
+                    android:text="@string/create_new_character_button" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="20dp"
+                android:id="@+id/characters_list_linear_layout">
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

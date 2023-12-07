@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">¡Iniciar sesión!</string>
+    <string name="register_button">¡Registrar nueva cuenta!</string>
+    <string name="create_account_link">¿No tienes cuenta? ¡Crear nueva cuenta!</string>
+    <string name="already_account_link">¿Ya tienes una cuenta? ¡Iniciar sesión!</string>
+    <string name="characters_title">Personajes</string>
+    <string name="create_new_character">Crear nuevo personaje</string>
+    <string name="create_new_character_button">¡Crear nuevo personaje!</string>
+    <string name="characters_list_title">Tus personajes:</string>
+    <string name="remove">Eliminar</string>
+    <string name="stories_title">Historias</string>
+    <string name="generate_story_title">Crear nueva historia</string>
+    <string name="choose_characters_title">Elige qué personajes incluir:</string>
+    <string name="create_new_story_button">¡Generar historia!</string>
+
+    <string name="home_greeing">¡Bienvenido de nuevo!</string>
+    <string name="home_explanation">¡Leamos algunos cuentos de hadas!</string>
+    <string name="search_placeholder">Buscar historias...</string>
+
+    <string name="story_location_placeholder">¿Dónde debe tener lugar la historia?</string>
+    <string name="story_plot_placeholder">¿De qué debe tratar la historia?</string>
+    <string name="add_character_button_text">Añadir</string>
+
+    <string name="character_name_placeholder">Nombre...</string>
+    <string name="character_age_placeholder">Edad...</string>
+    <string name="character_occupation_placeholder">Ocupación...</string>
+    <string name="character_backstory_placeholder">¿Cuál es la historia de este personaje?</string>
+</resources>

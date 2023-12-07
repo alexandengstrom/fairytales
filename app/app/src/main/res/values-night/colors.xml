@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#cdb4db</color>
+    <color name="lightpink">#ffc8dd</color>
+    <color name="pink">#ffafcc</color>
+    <color name="lightblue">#bde0fe</color>
+    <color name="yellow">#fffef2</color>
+    <color name="orange">#FFDEB4</color>
+    <color name="red">#FFB4B4</color>
+    <color name="blue">#B2A4FF</color>
+    <color name="green">#77e684</color>
+    <color name="sea_blue">#47A1AC</color>
+    <color name="coral">#363535</color>
+    <color name="cerise">#DE8A80</color>
+    <color name="gray_blue">#5A6C87</color>
+    <color name="purple_pink">#BCA5B5</color>
+    <color name="dark_blue">#2d324a</color>
+    <color name="light_pink">#D9545454</color>
+    <color name="button_text">#FAEFED</color>
+</resources>
