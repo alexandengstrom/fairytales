@@ -24,3 +24,26 @@ One of the key enhancements planned for **F(ai)rytales** is to evolve the storyt
 Another feature I would like to add is to generete an image to every story aswell. This could be solved by using the Dall-E API and should not be that hard to implement.
 
 However, this project was part of the course TDP028 at Linköping University and due to the academic deadline i did not have time to implement this functionality.
+
+### Images
+The following section will display some screenshots of the app.
+
+##### Login
+![Screenshot from 2023-12-07 11-12-27](https://github.com/alexandengstrom/fairytales/assets/123507241/5148b9de-6d81-4010-9c7b-e246d3f4133c)
+
+##### Register new account
+![Screenshot from 2023-12-07 11-12-33](https://github.com/alexandengstrom/fairytales/assets/123507241/f51056fd-9879-4f1b-92ae-ee8f26be0408)
+
+##### Creating a new character
+![Screenshot from 2023-12-07 11-15-57](https://github.com/alexandengstrom/fairytales/assets/123507241/07c42cea-bcb7-4113-ad1c-65451c8a3286)
+
+##### Generating a new story
+![Screenshot from 2023-12-07 11-20-20](https://github.com/alexandengstrom/fairytales/assets/123507241/aeed9173-ed45-4f6b-b7f0-09a792f72f94)
+
+##### Display of all stories created
+![Screenshot from 2023-12-07 11-22-23](https://github.com/alexandengstrom/fairytales/assets/123507241/9fab6557-5f7c-4ea6-b841-4b32cf914b04)
+
+##### Reading one story
+![Screenshot from 2023-12-07 11-23-03](https://github.com/alexandengstrom/fairytales/assets/123507241/50491208-e232-41d5-bccd-10f00fe0618d)
+
+
