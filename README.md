@@ -43,9 +43,15 @@ Another feature I would like to add is to generete an image to every story aswel
 
 However, this project was part of the course TDP028 at Linköping University and due to the academic deadlines I did not have time to implement this functionality.
 
-### Images
-The following section will display some screenshots of the app.
+### Demo
+Screencast displaying the functionality and design of the app:
 
+
+https://github.com/alexandengstrom/fairytales/assets/123507241/f55e9e6d-aacd-41e3-b413-91b745b80434
+
+
+
+Images displaying the functionality and design of the app:
 
 <table>
   <tr>
