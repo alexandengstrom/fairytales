@@ -46,35 +46,36 @@ However, this project was part of the course TDP028 at Linköping University and
 ### Images
 The following section will display some screenshots of the app.
 
+
 <table>
   <tr>
     <td align="center">
       <b>Login</b><br>
-      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/5148b9de-6d81-4010-9c7b-e246d3f4133c" width="300px" alt="Login Screenshot"/><br>
+      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/0df020e8-6ff4-459c-9628-26758fefa427" width="300px" alt="Login Screenshot"/><br>
     </td>
     <td align="center">
       <b>Register new account</b><br>
-      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/f51056fd-9879-4f1b-92ae-ee8f26be0408" width="300px" alt="Register Screenshot"/><br>
+      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/893e44aa-34cd-43db-9169-713a309e8476" width="300px" alt="Register Screenshot"/><br>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>Creating a new character</b><br>
-      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/07c42cea-bcb7-4113-ad1c-65451c8a3286" width="300px" alt="New Character Screenshot"/><br>
+      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/43b4f51a-ce69-4ffc-8324-46060171206b" width="300px" alt="New Character Screenshot"/><br>
     </td>
     <td align="center">
       <b>Generating a new story</b><br>
-      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/aeed9173-ed45-4f6b-b7f0-09a792f72f94" width="300px" alt="New Story Screenshot"/><br>
+      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/deb2573f-9a90-4437-9637-aaf89e991518" width="300px" alt="New Story Screenshot"/><br>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>Display of all stories created</b><br>
-      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/9fab6557-5f7c-4ea6-b841-4b32cf914b04" width="300px" alt="Stories List Screenshot"/><br>
+      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/3d999995-f47d-48eb-85d7-66ed8b2b1d10" width="300px" alt="Stories List Screenshot"/><br>
     </td>
     <td align="center">
       <b>Reading one story</b><br>
-      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/50491208-e232-41d5-bccd-10f00fe0618d" width="300px" alt="Reading Story Screenshot"/><br>
+      <img src="https://github.com/alexandengstrom/fairytales/assets/123507241/d92c4a0e-d72d-4dea-9dbd-47d7cf954ebe" width="300px" alt="Reading Story Screenshot"/><br>
     </td>
   </tr>
 </table>
